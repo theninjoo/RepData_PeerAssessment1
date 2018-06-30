@@ -1,3 +1,11 @@
+# NOTE TO OTHER DATA SCIENCE STUDENTS
+
+### Please check out the .md file, rather than the .Rmd file! The .md 
+### file will display the figures! I went through an absurd amount of 
+### trouble figuring out how to get these to work on github. The 
+### assignment does NOT make it clear that this won't work if you
+### don't start with the .Rmd file from the github fork.
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
